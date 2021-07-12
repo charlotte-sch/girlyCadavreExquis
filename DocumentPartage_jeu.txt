@@ -1,0 +1,30 @@
+
+                                            Chaque jour, une suite de phrase. 
+
+Ecris la suite de la phrase commencée. Tu sais juste qu'elle a commencé par un "Si" et qu'au fil des jours, une personne a rajouté un bout de phrase :) On découvrira cette mini histoire à la fin des 7 jours - Dimanche 18 et on fera un "merge" toutes ensemble. Checl le doodle pour l'heure choisie.
+
+Avant d'écrire sur ce document, vérifie que tu es bien sur ta branch et non pas dans la branch "main" ou "master"
+
+Ecris en face de ton chiffre attribué et ne supprime pas les autres chiffres et espaces blancs, pour éviter les conflits au moment de la fusion.
+
+Have fun tout en GITant :)
+
+Charlotte #1 Si 
+
+
+Sabrina #2
+
+
+Barbara #3
+
+
+Fatima #4
+
+
+Nisrine #5
+
+
+Iman #6
+
+
+Lison #7
